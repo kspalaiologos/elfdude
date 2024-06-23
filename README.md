@@ -1,5 +1,5 @@
 # elfdude
-a small &amp; primitive elf32 packer.
+a small &amp; primitive elf32 packer. (c) 2024 kamila szewczyk, made on a sunny sunday afternoon of 23-06.
 ```
 % head -n 10 rpn.asm
 use32
