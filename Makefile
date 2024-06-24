@@ -7,5 +7,5 @@ clean:
 %.bin: %.asm
 	fasm $<
 %.elf: %.bin
-	./elfdude $(BSS) 16777216 $< $@
+	./elfdude $(BSS) 16777216 $< $@ m0
 	chmod +x $@
