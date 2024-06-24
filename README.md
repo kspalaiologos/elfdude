@@ -15,7 +15,7 @@ stkpush:
 % fasm rpn.asm
 flat assembler  version 1.73.32  (16384 kilobytes memory)
 3 passes, 1570 bytes.
-% ./elfdude 0x1000 16777216 rpn.bin rpn.elf
+% ./elfdude 0x1000 16777216 rpn.bin rpn.elf m0
 % wc -c rpn.elf
 966 rpn.elf
 ```
