@@ -378,3 +378,4 @@ https://palaiologos.rocks - kspalaiologos@gmail.com
 ===> 7. changelog
 
 v0.004: golf down stubs, implement --wx for selinux compatibility.
+        improved error checking. verbose output mode.
