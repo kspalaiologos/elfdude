@@ -7,7 +7,7 @@
  ██████████ ███████████ █████      ░░████████ ░░████████░░████████░░██████  |
 ░░░░░░░░░░ ░░░░░░░░░░░ ░░░░░        ░░░░░░░░   ░░░░░░░░  ░░░░░░░░  ░░░░░░   |
 ____________________________________________________________________________+
-                                                                       v0.003
+                                                                       v0.004
 a small & primitive ELF32 packer
                                                     (c) 2024 kamila szewczyk,
                          prototyped on a sunny sunday afternoon of 23-06-2024
@@ -20,6 +20,7 @@ a small & primitive ELF32 packer
 4. how it works
 5. limitations
 6. acknowledgements, copyright & license
+7. changelog
 
 ===> 1. introduction
 
@@ -374,3 +375,6 @@ thanks to:
 
 https://palaiologos.rocks - kspalaiologos@gmail.com
 
+===> 7. changelog
+
+v0.004: golf down stubs, implement --wx for selinux compatibility.
