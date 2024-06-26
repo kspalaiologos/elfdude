@@ -350,14 +350,12 @@ methods:
 
 Current list of improvements yet to be made:
 
-- support for W^X systems.
 - support for (dynamically linked) ELFs.
 - tool that turns ELFs into flat images.
 - support for transforms (e.g. e8-e9).
 - support for more algorithms.
 - support FreeBSD/OpenBSD/NetBSD
 - golf down the stubs.
-- fix the base address of the ELF stubs.
 - support shell script stubs like gzexe.
 
 ===> 6. acknowledgements, copyright & license
